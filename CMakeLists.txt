@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(my_project_name)
+project(generics-02-stack)
 
 set(CMAKE_CXX_STANDARD 14)
 
